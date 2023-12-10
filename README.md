@@ -1,5 +1,7 @@
 ### Hi there my name is Habibi Bagus Suliano👋
 
+A bachelor's in Computer Engineering with a passion in Data
+
 ### 🛠️ Skills and Tools
 
 - **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, TensorFlow), SQL
